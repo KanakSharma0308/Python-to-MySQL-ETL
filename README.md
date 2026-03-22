@@ -30,5 +30,5 @@ code: Country ISO code (e.g., BRA, ENG).
 flag: URL to the country's official crest/flag.
 
 
-<img width="546" height="431" alt="loaded_data" src="https://github.com/user-attachments/assets/bfa4502a-39a3-4351-a1f2-4c9b557f2a5e" />
+[<img width="546" height="431" alt="loaded_data" src="https://github.com/user-attachments/assets/bfa4502a-39a3-4351-a1f2-4c9b557f2a5e" />](https://github.com/KanakSharma0308/Python-to-MySQL-ETL/blob/main/loaded_data.png)
 
